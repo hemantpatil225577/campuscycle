@@ -1,0 +1,8 @@
+{
+  "name": "CampusCycle — College Academic Resource Exchange",
+  "description": "College-only peer-to-peer academic resource exchange platform where students buy, sell, borrow, lend, or donate textbooks, lab coats, drafters, calculators, and engineering tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
